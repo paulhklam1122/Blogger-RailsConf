@@ -1,2 +1,4 @@
+import { combineReducers } from 'redux'
+import posts from './posts'
 
-export default (action, state) => ({})
+export default combineReducers({ posts: posts })

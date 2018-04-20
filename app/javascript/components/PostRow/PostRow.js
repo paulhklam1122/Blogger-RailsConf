@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import DeleteLink from './DeleteLink'
-import Form from './Form'
+import DeleteLink from '../DeleteLink'
+import Form from '../Form'
 
 export default class PostRow extends Component {
   state = {
