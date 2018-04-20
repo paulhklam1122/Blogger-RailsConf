@@ -1,5 +1,7 @@
 # Tutorial for Blogger!
 
+*not quite finished! will have completed tutorial up soon :) THANK YOU*
+
 ## Dependencies
 ensure you have rails 5+, ruby 2.4+, yarn
 
